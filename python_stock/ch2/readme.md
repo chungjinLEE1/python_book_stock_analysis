@@ -19,4 +19,4 @@
 #### SHA-256 파일 검증. 
 
 
-#### matplitlib 사용 
+#### matplitlib 사용 예제. [참조](https://wikidocs.net/92071)
