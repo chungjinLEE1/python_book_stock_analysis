@@ -1,4 +1,6 @@
-# python_book_stock_analysis
+#### python_book_stock_analysis
+
+#### 2022.03.28 ~
 
 [참조](https://wikidocs.net/1740)
 
