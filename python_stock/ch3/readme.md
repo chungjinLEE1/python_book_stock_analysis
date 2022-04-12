@@ -5,3 +5,8 @@ MDD(maximum Drawdown) = (최저점 - 최고점) / 최저점
 
 
 ### Using Yahoo Finance in Python [참조](https://www.analyticsvidhya.com/blog/2021/06/download-financial-dataset-using-yahoo-finance-in-python-a-complete-guide/)
+
+
+### shift [참조](https://wikidocs.net/158146)
+
+### rolling : 기간이동계산 [참조](https://wikidocs.net/152788)
