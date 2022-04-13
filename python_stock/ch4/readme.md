@@ -14,6 +14,9 @@
 #### How to use Bithumb API ? [참조](https://www.hides.kr/795)
 
 
+#### bitcoin 자동매매 Blog [참조](https://wikidocs.net/31065)
+
+
 
 #### 관련기사 
 - [참조](https://news.einfomax.co.kr/news/articleView.html?idxno=4192027) : API 마이데이터 전면시행.. 스크래핑 
