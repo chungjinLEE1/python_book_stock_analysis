@@ -7,3 +7,8 @@
 
 
 #### Selenium + BeautifulSoup [참조](https://rubber-tree.tistory.com/88?category=940054)    vs     Request + BeautifulSoup   [참조](https://rubber-tree.tistory.com/88)
+
+
+
+#### 관련기사 
+- [참조](https://news.einfomax.co.kr/news/articleView.html?idxno=4192027) : API 마이데이터 전면시행.. 스크래핑 
